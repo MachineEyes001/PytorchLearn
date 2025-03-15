@@ -9,6 +9,15 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+dataset/
+Logs_train/
+logs/
+logs_maxpool/
+logs_relu/
+logs_seq/
+model/
+dataloader/
+.dataset/
 develop-eggs/
 dist/
 downloads/
